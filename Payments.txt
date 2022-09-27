@@ -1,0 +1,10 @@
+// customer banking payment services//
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+int a,b;
+clrscr();
+Scanf();
+}
